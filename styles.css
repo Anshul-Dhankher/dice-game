@@ -1,0 +1,42 @@
+body{
+  background-color: #393E46;
+}
+h1{
+  color:#fefecc;
+  text-align: center;
+  font-size: 100px;
+}
+.img1{
+  position: relative;
+  left:600px;
+  top:50px;
+}
+.img2{
+  position: relative;
+  left:700px;
+  top: 50px;
+}
+.result{
+  text-align: center;
+  font-size: 70px;
+  margin-top: 100px;
+  color:#fefecc;
+  visibility: hidden;
+}
+.btn{
+  position: relative;
+  left:850px;
+  top:30px;
+  font-size: 60px;
+  border-radius: 30px;
+  background-color:#f2bda1;
+  color:#fefecc;
+}
+footer{
+  text-align: center;
+  position: fixed;
+  color:#EEEEEE;
+  bottom: 0;
+  left:650px;
+  font-size: 50px;
+}
